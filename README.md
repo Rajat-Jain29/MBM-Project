@@ -50,7 +50,8 @@
 </table> 
 
 
-
+## DEPLOYMENT
+https://react-node-e.web.app/
 
 ## LICENSE
 [MIT](https://github.com/Satwikan/2nd-hand-mbm/blob/main/LICENSE)
